@@ -1,6 +1,6 @@
 psycopg2==2.7.4 --no-binary psycopg2
 gunicorn==19.9.0
-django==1.11.28
+django==2.2.24
 djangorestframework==3.6.2
 django-extensions==1.7.8     # for graph models
 markdown==2.6.8
