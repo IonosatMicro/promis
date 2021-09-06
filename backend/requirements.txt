@@ -10,8 +10,8 @@ djsw_wrapper>=0.2.3.0
 drf-nested-routers==0.90.0
 dj-database-url==0.4.2
 django-hvad==1.8.0
-djangorestframework-gis==0.11
-djangorestframework-filters==0.9.1
+djangorestframework-gis
+djangorestframework-filters==0.10.2
 pytz==2017.2                  # for datetime conversions
 django_loaddata_stdin==0.1.0 # for loading test data from the host
 pytest-django==3.5.1
