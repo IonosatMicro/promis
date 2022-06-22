@@ -15,4 +15,4 @@ djangorestframework-filters==0.9.1
 pytz==2017.2                  # for datetime conversions
 django_loaddata_stdin==0.1.0 # for loading test data from the host
 pytest-django==3.5.1
-numpy==1.18.1
+numpy==1.22.0
